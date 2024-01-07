@@ -1,2 +1,2 @@
-# Introduction to computer science
- Exercises in C
+# Introdução a ciência da computação (ICC)
+ Exerccícios em C
